@@ -17,9 +17,12 @@
 
 ---
 
-### `// trophies`
+### `// achievements`
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=qlfu&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=10&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+![Pull Shark](https://img.shields.io/badge/Pull_Shark-x3-161b22?style=flat-square&labelColor=0d1117&color=58a6ff)
+![Pair Extraordinaire](https://img.shields.io/badge/Pair_Extraordinaire-x3-161b22?style=flat-square&labelColor=0d1117&color=a371f7)
+![Quickdraw](https://img.shields.io/badge/Quickdraw-unlocked-161b22?style=flat-square&labelColor=0d1117&color=3fb950)
+![YOLO](https://img.shields.io/badge/YOLO-unlocked-161b22?style=flat-square&labelColor=0d1117&color=d29922)
 
 ---
 
@@ -27,10 +30,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=qlfu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&count_private=true" height="165" alt="GitHub Stats" />
 <img src="https://streak-stats.demolab.com?user=qlfu&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681" height="165" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qlfu&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=6" alt="Top Languages" />
 
 ---
 
